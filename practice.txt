@@ -1,1 +1,0 @@
-This is my notepad full of text to sort and list as an alphabetical sort with count for each unique word. 
